@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+
+body{
+    font-family: 'Rubik Pixels';
+    font-size: 22px;
+    text-align: center;
+    background-color: rgb(254, 195, 0);
+}
